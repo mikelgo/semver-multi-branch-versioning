@@ -5,4 +5,5 @@ export * from './lib/my-lib.module';
  *
  * v2.x.x Awesome feature
  * v2.x.x bugfix
+ * v2.x.x Awesome feature
  */
