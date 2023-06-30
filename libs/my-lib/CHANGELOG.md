@@ -2,6 +2,15 @@
 
 This file was generated using [@jscutlery/semver](https://github.com/jscutlery/semver).
 
+# [1.2.0](/compare/my-lib-1.1.0...my-lib-1.2.0) (2023-06-30)
+
+
+### Features
+
+* v1.x.x fe2f5f4
+
+
+
 # [1.1.0](/compare/my-lib-1.0.0...my-lib-1.1.0) (2023-06-30)
 
 
